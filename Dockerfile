@@ -1,4 +1,4 @@
-# Minimal Docker image for Bowtie2 + samtools using Bowtie2image base
+# Minimal Docker image for Bowtie2 + samtools using Bowtie2 base
 FROM niemasd/bowtie2:2.5.5
 
 # install samtools
